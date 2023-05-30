@@ -29,7 +29,7 @@
 -   npm run dev
 -   php artisan migrate
 -   php artisan storage:link
--   
+
 ### Need to Install
 
 -   xampp
